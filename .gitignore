@@ -3,12 +3,29 @@ __pycache__/
 *.pyc
 *.pyo
 
-# RenderCV output (generated files)
-rendercv_output/rendercv_output/
-
-# Generated profile photo (source JPEG is kept)
-profile_photo.png
-
 # OS files
 Thumbs.db
 .DS_Store
+
+# Generated RenderCV output (all themes except engineeringresumes)
+rendercv_output/classic/
+rendercv_output/cvready/
+rendercv_output/harvard/
+rendercv_output/moderncv/
+rendercv_output/sb2nov/
+rendercv_output/rendercv_output/
+
+# Other theme YAMLs
+rendercv_output/Lukas_Skarpa_CV_classic.yaml
+rendercv_output/Lukas_Skarpa_CV_harvard.yaml
+rendercv_output/Lukas_Skarpa_CV_moderncv.yaml
+rendercv_output/Lukas_Skarpa_CV_sb2nov.yaml
+
+# Render logs
+rendercv_output/render_*.txt
+
+# Workspace file
+cline documents.code-workspace
+
+# Git setup script (one-time use)
+git_setup.py
