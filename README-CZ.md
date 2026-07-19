@@ -2,15 +2,15 @@
     <img width=300 src="./assets/main.gif"/>
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hello%2C+check+out+my+profile!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=5AAD94&center=true&repeat=false&width=600&height=60&lines=Hello%2C+check+out+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/LukasSkarpa12"><img src="https://img.shields.io/badge/-GitHub-f5e0dc?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
-    <a href="mailto:lukas@skarpa.dev"><img src="https://img.shields.io/badge/-Email-f2cdcd?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-%C5%A1karpa-719533423/"><img src="https://img.shields.io/badge/-LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/lukymu.skarpa/"><img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-    <a href="https://www.facebook.com/lukyy.skarpa/"><img src="https://img.shields.io/badge/-Facebook-f2cdcd?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+    <a href="https://github.com/LukasSkarpa12"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:lukas@skarpa.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-%C5%A1karpa-719533423/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/lukymu.skarpa/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/lukyy.skarpa/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
     <br>
 </div>
 
