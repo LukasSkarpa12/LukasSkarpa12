@@ -26,7 +26,7 @@ I'm a 19-year-old **Computer Science student** with a passion for modern web tec
 I speak English at a Cambridge B2 level and I'm always looking to grow, learn, and build things that matter.
 
 ```javascript
-const luky12cz = {
+const LukasSkarpa12 = {
     OS: ["Windows"],
     languages: {
         proficient: ["HTML", "CSS/SCSS", "JavaScript", "React"],

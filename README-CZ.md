@@ -26,7 +26,7 @@ Je mi 19 let, jsem **student informačních technologií** s vášní pro modern
 Anglicky mluvím na úrovni Cambridge B2 a neustále se snažím růst, učit se a tvořit věci, které mají smysl.
 
 ```javascript
-const luky12cz = {
+const LukasSkarpa12 = {
     OS: ["Windows"],
     languages: {
         proficient: ["HTML", "CSS/SCSS", "JavaScript", "React"],
