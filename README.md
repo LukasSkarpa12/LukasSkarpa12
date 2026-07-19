@@ -2,13 +2,15 @@
     <img width=300 src="./assets/main.gif"/>
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+luky12cz!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hello%2C+check+out+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
     <a href="https://github.com/luky12cz"><img src="https://img.shields.io/badge/-GitHub-f5e0dc?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
     <a href="mailto:lukskarpa@gmail.com"><img src="https://img.shields.io/badge/-Email-f2cdcd?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/luky12cz"><img src="https://img.shields.io/badge/-LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/lukymu.skarpa/"><img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/lukyy.skarpa/"><img src="https://img.shields.io/badge/-Facebook-f2cdcd?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
     <br>
 </div>
 
@@ -17,12 +19,11 @@
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
 
-## 👻 A little about me...
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=luky12cz&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+## 👻 Who am I?
 
-I am a **Web Developer & Computer Science student** with hands-on experience delivering international web development work for a global enterprise team. I combine 4 months as a Web Development Intern with Bata MDC and 8 months of subsequent freelance contract work for Bata, maintaining and improving international web platforms.
+I'm a 19-year-old **Computer Science student** with a passion for modern web technologies and clean code. I've had the opportunity to work with a global enterprise team at **Bata** — first as a Web Development Intern (4 months) and later as a freelance contractor (8 months), maintaining and improving international web platforms used across multiple markets.
 
-I have a strong command of English (Cambridge B2) and a deep passion for modern web technologies, clean code, and continuous growth as a developer.
+I speak English at a Cambridge B2 level and I'm always looking to grow, learn, and build things that matter.
 
 ```javascript
 const luky12cz = {
@@ -59,13 +60,3 @@ const luky12cz = {
 | **Backend** | Python |
 | **Tools** | Git, Jira, Confluence |
 | **Languages** | Czech (Native), English (B2 Certified) |
-
-## 📊 GitHub Statistics
-
-<div align="center">
-    <img alt="luky12cz profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=luky12cz&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <br/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luky12cz&layout=compact&theme=transparent"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=luky12cz&show_icons=true&theme=transparent"/>
-</div>
