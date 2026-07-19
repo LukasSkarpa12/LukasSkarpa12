@@ -1,9 +1,9 @@
 # Lukáš Škarpa's CV
 
 - Phone: +420 737 117 624
-- Email: [lukskarpa@gmail.com](mailto:lukskarpa@gmail.com)
+- Email: [lukas@skarpa.dev](mailto:lukas@skarpa.dev)
 - Location: Pitín 32, Zlínský kraj, Czech Republic
-- GitHub: [luky12cz](https://github.com/luky12cz)
+- GitHub: [LukasSkarpa12](https://github.com/LukasSkarpa12)
 
 
 # Summary

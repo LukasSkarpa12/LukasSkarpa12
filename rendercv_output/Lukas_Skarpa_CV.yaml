@@ -1,12 +1,12 @@
 cv:
   name: Lukáš Škarpa
   location: Pitín 32, Zlínský kraj, Czech Republic
-  email: lukskarpa@gmail.com
+  email: lukas@skarpa.dev
   phone: "+420737117624"
   photo: profile_photo.png
   social_networks:
     - network: GitHub
-      username: luky12cz
+      username: LukasSkarpa12
   sections:
     summary:
       - Ambitious 19-year-old Computer Science student with hands-on experience delivering international web development work for a global enterprise team. Combines 4 months as a Web Development Intern with Bata MDC and 8 months of subsequent freelance contract work for Bata, maintaining and improving international web platforms. Strong command of English (Cambridge B2) and a deep passion for modern web technologies, clean code, and continuous growth as a developer.
