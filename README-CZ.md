@@ -8,7 +8,7 @@
 <div align="center">
     <a href="https://github.com/luky12cz"><img src="https://img.shields.io/badge/-GitHub-f5e0dc?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
     <a href="mailto:lukskarpa@gmail.com"><img src="https://img.shields.io/badge/-Email-f2cdcd?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/luky12cz"><img src="https://img.shields.io/badge/-LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-%C5%A1karpa-719533423/"><img src="https://img.shields.io/badge/-LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/lukymu.skarpa/"><img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
     <a href="https://www.facebook.com/lukyy.skarpa/"><img src="https://img.shields.io/badge/-Facebook-f2cdcd?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
     <br>
