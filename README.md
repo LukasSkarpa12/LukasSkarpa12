@@ -14,8 +14,8 @@
 </div>
 
 <div align="center">
-    <a href="./README-CZ.md"><img src="https://img.shields.io/badge/🇨🇿_Čeština-1a6fb5?style=for-the-badge&labelColor=1C2325" alt="Čeština"></a>
-    <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-d42b2b?style=for-the-badge&labelColor=1C2325" alt="English"></a>
+    <a href="./README-CZ.md"><img src="https://img.shields.io/badge/README_CZ-1a6fb5?style=for-the-badge&labelColor=1C2325" alt="README CZ"></a>
+    <a href="./README.md"><img src="https://img.shields.io/badge/README_ENG-d42b2b?style=for-the-badge&labelColor=1C2325" alt="README ENG"></a>
 </div>
 
 ## 👨‍💻 Who am I?
@@ -46,5 +46,6 @@ const LukasSkarpa12 = {
 
 ## 📫 Contact Me
 
+- **Email:** lukas@skarpa.dev
 - **GitHub:** [LukasSkarpa12](https://github.com/LukasSkarpa12)
 - **Location:** Pitín, Zlínský kraj, Czech Republic
