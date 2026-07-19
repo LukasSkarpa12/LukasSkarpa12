@@ -21,7 +21,7 @@
 
 ## 👻 Who am I?
 
-I'm a 19-year-old **Computer Science student** with a passion for modern web technologies and clean code. I've had the opportunity to work with a global enterprise team at **Bata** — first as a Web Development Intern (4 months) and later as a freelance contractor (8 months), maintaining and improving international web platforms used across multiple markets.
+I'm a 19-year-old **Computer Science student** with a passion for modern web technologies and clean code. I've had the opportunity to work with a global enterprise team at **Bata**, first as a Web Development Intern (4 months) and later as a freelance contractor (8 months), maintaining and improving international web platforms used across multiple markets.
 
 I speak English at a Cambridge B2 level and I'm always looking to grow, learn, and build things that matter.
 
@@ -34,8 +34,8 @@ const luky12cz = {
         familiar: ["TypeScript"]
     },
     experience: {
-        freelance: ["Bata (Freelance Contract) — Jan 2025 – Aug 2025"],
-        internship: ["Bata Zlín MDC — Sept 2024 – Jan 2025"]
+        freelance: ["Bata (Freelance Contract), Jan 2025 – Aug 2025"],
+        internship: ["Bata Zlín MDC, Sept 2024 – Jan 2025"]
     },
     tools: ["Git", "Jira", "Confluence", "VS Code"],
     currentlyLearning: ["TypeScript", "React", "Modern CSS"],

@@ -21,7 +21,7 @@
 
 ## 👻 Kdo jsem?
 
-Je mi 19 let, jsem **student informačních technologií** s vášní pro moderní webové technologie a čistý kód. Měl jsem možnost pracovat s globálním týmem ve společnosti **Bata** — nejprve jako Web Development Intern (4 měsíce) a později jako freelance vývojář (8 měsíců), kde jsem udržoval a vylepšoval mezinárodní webové platformy používané na mnoha trzích.
+Je mi 19 let, jsem **student informačních technologií** s vášní pro moderní webové technologie a čistý kód. Měl jsem možnost pracovat s globálním týmem ve společnosti **Bata**, nejprve jako Web Development Intern (4 měsíce) a později jako freelance vývojář (8 měsíců), kde jsem udržoval a vylepšoval mezinárodní webové platformy používané na mnoha trzích.
 
 Anglicky mluvím na úrovni Cambridge B2 a neustále se snažím růst, učit se a tvořit věci, které mají smysl.
 
@@ -34,8 +34,8 @@ const luky12cz = {
         familiar: ["TypeScript"]
     },
     experience: {
-        freelance: ["Bata (Freelance Contract) — leden 2025 – srpen 2025"],
-        internship: ["Bata Zlín MDC — září 2024 – leden 2025"]
+        freelance: ["Bata (Freelance Contract), leden 2025 – srpen 2025"],
+        internship: ["Bata Zlín MDC, září 2024 – leden 2025"]
     },
     tools: ["Git", "Jira", "Confluence", "VS Code"],
     currentlyLearning: ["TypeScript", "React", "Modern CSS"],
